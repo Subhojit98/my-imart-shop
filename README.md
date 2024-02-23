@@ -57,4 +57,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - Your Name - [SUBHAJIT CHOWHAN](https://x.com/ChowhanSubhojit), (https://www.linkedin.com/in/chowhansubhajit)
 
-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+- Project Link:(https://github.com/Subhojit98/my-imart-shop)
